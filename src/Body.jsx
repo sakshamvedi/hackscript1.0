@@ -1,10 +1,10 @@
 import {React,useRef,useState , useEffect} from 'react'
 import "./Body.css"
  // requires a loader
- import { CarouselProvider, Slider, Slide, ButtonBack, ButtonNext } from 'pure-react-carousel';
+ 
  import 'pure-react-carousel/dist/react-carousel.es.css';
 import TextTransition, { presets } from "react-text-transition";
-import {BsCalendarCheckFill, BsCalendarDate, BsWhatsapp} from "react-icons/bs";
+
 const TEXTS = [
     "Inspire",
     "Learn",
