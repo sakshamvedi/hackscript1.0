@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sofia+Sans&display=swap");
+.maincontainer {
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  background-image: url("https://images.unsplash.com/photo-1518933165971-611dbc9c412d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzg2NTJ8MHwxfHNlYXJjaHwxfHxjb2RlcnN8ZW58MHx8fHwxNjc0Mjc1NTk1&ixlib=rb-4.0.3&q=80&w=1080");
+  background-position: center;
+  background-size: cover;
+  font-family: "Quicksand", sans-serif;
+}
+.maincontainer .dummy {
+  background: rgba(31, 38, 49, 0.64);
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+.maincontainer .dummy img {
+  margin-left: 20%;
+  height: 100px;
+}
+.maincontainer .dummy a {
+  text-decoration: none;
+  color: white;
+  font-family: "Quicksand", sans-serif;
+}
+.maincontainer .bodytitle {
+  margin-left: 5%;
+  color: white;
+  font-size: 10vw;
+  font-weight: 800;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(to right, #40e0d0, #ff8c00, #ff0080);
+}
+
+.empty {
+  font-family: "Quicksand", sans-serif;
+  font-weight: 600;
+}/*# sourceMappingURL=Body.css.map */
