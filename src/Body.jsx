@@ -104,10 +104,12 @@ function Body() {
       <p className="mb-8 leading-relaxed text-gray-100">HackScript is a high-intensity, fast-paced coding battle where participants are challenged to come up with innovative solutions to complex problems in a limited amount of time. Just as a battle requires a clear strategy and a well-trained team Are you ready ? for battle with many people like you ..?
       </p>
       <div className="flex justify-center">
+        <a href = "https://hack2skill.com/hack/hackscript">
         <button className="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
          Register 
         </button>
-        <a href='https://chat.whatsapp.com/BY4gjCclIR6GCk93ZeQvJ8'>
+        </a>
+        <a target="_blank" href='https://chat.whatsapp.com/BY4gjCclIR6GCk93ZeQvJ8'>
         <button className="ml-4 inline-flex text-gray-700 bg-gray-100 border-0 py-2 px-6 focus:outline-none hover:bg-gray-200 rounded text-lg">
           Join Group
         </button>
